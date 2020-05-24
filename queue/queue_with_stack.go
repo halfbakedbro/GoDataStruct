@@ -1,4 +1,4 @@
-package queue_with_stack
+package queue
 
 type MyQueue struct {
 	data []interface{}

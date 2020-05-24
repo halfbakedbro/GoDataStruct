@@ -15,7 +15,7 @@ type LinkList struct {
 	head *node
 }
 
-func initList() *LinkList {
+func InitList() *LinkList {
 	return &LinkList{}
 }
 

@@ -11,6 +11,10 @@ type node struct {
 	right *node
 }
 
+/**
+Binary Search Tree Data
+Structure
+**/
 type BinTree struct {
 	root *node
 	len  int
